@@ -1,0 +1,14 @@
+.cart {
+  padding: 120px 0;
+  width: 1180px;
+  margin: 0 auto;
+}
+
+.cart-parcel img {
+  width: 150px;
+}
+
+.cart-products {
+  font-size: 14px;
+  width: 85%;
+}
